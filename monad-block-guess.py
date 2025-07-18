@@ -653,7 +653,7 @@ with col3:
 # Footer - Now positioned as normal content at bottom (not fixed)
 st.markdown("""
 <div class="footer">
-    🔗 Powered by Monad Testnet | Made by <a href="https://x.com/zahidaliAI" target="_blank" style="color:#FFFFFF; text-decoration:none;"><b>ZAHID 💜</b></a>
+    🔗 Powered by Monad Testnet | Made by <a href="https://x.com/zahidforai" target="_blank" style="color:#FFFFFF; text-decoration:none;"><b>ZAHID 💜</b></a>
 </div>
 """, unsafe_allow_html=True)
 
